@@ -1,0 +1,7 @@
+# common
+requests==2.27.*
+sentencepiece==0.1.*
+uvicorn[standard]==0.17.*
+modal
+typer
+modal-client
